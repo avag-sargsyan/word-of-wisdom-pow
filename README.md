@@ -35,6 +35,7 @@ protection from spam abuses. There are multiple POW algorithms, among of which:
 + Client Puzzle Protocol (https://en.wikipedia.org/wiki/Client_Puzzle_Protocol)
 + HashCash (https://en.wikipedia.org/wiki/Hashcash)
 + Merkle Tree (https://en.wikipedia.org/wiki/Merkle_tree)
++ Equihash (https://en.wikipedia.org/wiki/Equihash)
 
 ## More about the Client Puzzle Protocol and why it is chosen
 Client Puzzle Protocol (CPP) serves a cryptographic puzzle to clients that must be solved before their request is served.
