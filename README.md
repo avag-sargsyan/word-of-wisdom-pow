@@ -51,5 +51,3 @@ on the server.
 + The "Wisdom Book" should be stored in storage instead of in the slice.
 + It would be great if the CPP puzzle strength is adjusted by the server connections amount, so more loaded the server
 more difficult is the puzzle.
-
-Inspired by: https://github.com/nightlord189/tcp-pow-go
